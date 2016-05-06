@@ -1,3 +1,5 @@
+print "hello"
+
 from ev3dev.auto import OUTPUT_A, Motor 
 import time
 
